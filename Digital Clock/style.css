@@ -1,0 +1,22 @@
+body{
+    background-image: url(LUFFYcover-topaz-enhance-6x.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0;
+}
+
+#clock-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+#clock{
+    font-family: monospace;
+    font-size: 6.5rem;
+    font-weight: bold;
+    align-items: center;
+    color: rgba(201,156,249,255);
+}
